@@ -32,4 +32,3 @@ jobs:
       -name:  deploying using surge
        run: surge ./ bootcampazeem.surge.sh --token ${{secrets.TOKEN }}
       
-{{
